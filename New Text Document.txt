@@ -1,0 +1,30 @@
+-> Repository create (get url)
+-> Clone
+-> Add/Update
+-> Add local repository (Local machine)
+-> Commit (comment description)
+-> Push (publish local repo to GitServer)
+  => Master (main branch)
+branch name will start with small latter
+-> Clone master from server
+   Switch to masteer
+	after testing-
+	  Switch to masteer branch
+   =>Merge teacher with master
+
+1) git clone url ......../RMS.gitgi
+3) git status
+4) git add --all
+5) git status (optional if info green)
+6) git commit -m'comments'
+7) git push origin branchName
+
+Create new branch
+8) git checkout -b branchName
+   * -b for create new Branch
+9) For switch Branch
+      git checkout branchName
+For Marging 
+
+10) git merge branchName
+ 
