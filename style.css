@@ -1,0 +1,47 @@
+form{
+	width:30%;
+	margin:60px auto;
+	padding:10px;
+	background-color:#ad7590;
+}
+/* form{
+	width:90%;
+	margin:auto;
+	padding:20px;
+} */
+form input[type="text"]{
+	height:30px;
+	padding:10px;
+	width:95%;
+	margin-bottom:15px;
+	
+}
+form input[type="email"]{
+	height:30px;
+	padding:10px;
+	width:95%;
+	margin-bottom:15px;
+	
+}
+form input[type="password"]{
+	height:30px;
+	padding:10px;
+	width:95%;
+	margin-bottom:15px;
+	
+}
+
+form input[type="submit"]{
+	height:40px;
+	width:95%;
+	bolder:5px solid #00B242;
+	margin-left:10px;
+	margin-bottom:15px;
+	background-color:#00B242;
+	font-size:20px;
+	color:#fff;
+	
+	border:1px solid #00B242;
+	cursor:pointer;
+}
+
