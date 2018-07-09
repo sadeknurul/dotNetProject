@@ -1,13 +1,32 @@
-<!DOCTYPE html>
-<html>
+<?php
+$connection = mysqli_connect("localhost","root","","dbms");
+?>
+<?php
+if(isset($_POST['register'])){
+	$name = $_POST['name'];
+	$mark = $_POST['mark'];
+	$query = "Insert into students(name,mark) values('$name','$mark')";
+	mysqli_query($connection,$query);
+	echo "Inserted Successfully";
+}
+?>
+<?php
+
+	//echo "connect";
+
+?>
+<!DOCTYPE HTML>
+<html lang="en-US">
 <head>
-<meta charset="UTF-8">
-<title>Page Title</title>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style.css" media="all" />
 </head>
 <body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
+	<form action="" method="post">
+		<input type="text" name="name" placeholder="Name" id="" />
+		<input type="text" name="mark" placeholder="Marks" id="" />
+		<input type="submit" value="Insert Now" name="register" />
+	</form>
 </body>
 </html>
