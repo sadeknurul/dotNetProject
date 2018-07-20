@@ -1,0 +1,18 @@
+D:\Sadek\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe.config
+D:\Sadek\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csprojResolveAssemblyReference.cache
+D:\Sadek\CustomerApp\CustomerApp\obj\Debug\CustomerApp.CustomerEntryForm.resources
+D:\Sadek\CustomerApp\CustomerApp\obj\Debug\CustomerApp.Properties.Resources.resources
+D:\Sadek\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.GenerateResource.Cache
+D:\Sadek\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe
+D:\Sadek\CustomerApp\CustomerApp\bin\Debug\CustomerApp.pdb
+D:\Sadek\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
+D:\Sadek\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb
+F:\BITM\Class Practice\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe.config
+F:\BITM\Class Practice\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
+F:\BITM\Class Practice\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb
+F:\BITM\Class Practice\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csprojResolveAssemblyReference.cache
+F:\BITM\Class Practice\CustomerApp\CustomerApp\obj\Debug\CustomerApp.CustomerEntryForm.resources
+F:\BITM\Class Practice\CustomerApp\CustomerApp\obj\Debug\CustomerApp.Properties.Resources.resources
+F:\BITM\Class Practice\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.GenerateResource.Cache
+F:\BITM\Class Practice\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe
+F:\BITM\Class Practice\CustomerApp\CustomerApp\bin\Debug\CustomerApp.pdb
